@@ -1,5 +1,6 @@
 {
     "name": "durjaygp/laravel-view-tracker",
+    "version": "1.0.0",
     "description": "A lightweight view tracker for Eloquent models in Laravel.",
     "type": "library",
     "require": {
