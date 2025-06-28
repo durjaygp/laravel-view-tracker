@@ -17,6 +17,12 @@
             "email": "42237029+durjaygp@users.noreply.github.com"
         }
     ],
+    "repositories": [
+  {
+    "type": "vcs",
+    "url": "https://github.com/durjaygp/laravel-view-tracker"
+  }     
+  ],
     "extra": {
       "laravel": {
         "providers": [
